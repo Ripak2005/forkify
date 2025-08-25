@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# parcel cache
+/.parcel-cache
+
+# output directory
+/dist
+
+# system files
+.DS_Store
+Thumbs.db
+
+# log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
